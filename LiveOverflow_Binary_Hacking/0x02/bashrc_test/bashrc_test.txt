@@ -1,0 +1,5 @@
+# test at .bashrc
+export PATH=$PATH:~/LiveOverflow_Binary_Hacking/0x02
+matrix $USER
+
+# ===> Knock, Knock, {USER}
